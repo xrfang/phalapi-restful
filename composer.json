@@ -1,0 +1,28 @@
+{
+    "name": "xrfang/phalapi-restful",
+    "description": "PhalApi 2.x 扩展类库 - FastRoute路由，快速实现完整restful api（get post put delete）",
+    "keywords": [
+        "phalapi", "phalapi-fast-route-restful", "fast-route"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/xrfang/phalapi-restful",
+    "type": "library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "luyuanxun",
+            "email": "904734889@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phalapi/kernal": "2.2.*",
+        "nikic/fast-route": "1.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhalApi\\Restful\\": "src"
+        }
+    }
+}
