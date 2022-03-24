@@ -1,7 +1,7 @@
 
 ## PhalApi 2.x 扩展类库：基于FastRoute的快速路由
 
-> 本仓库是`luyuanxun/phalapi-restful`的一个镜像，因为原仓库（https://github.com/luyuanxun/phalapi-restful）已经消失了。本仓库仅对原作的导入路径做了更改。以下为原作者的文档。
+> 本仓库是`luyuanxun/phalapi-restful`的一个镜像，因为[原仓库](https://github.com/luyuanxun/phalapi-restful)已经消失了。本仓库仅对原作的导入路径做了更改。以下为原作者的文档。
 
 此扩展基于 [FastRoute](https://github.com/nikic/FastRoute) 实现，需要 **PHP 5.4.0** 及以上版本，快速实现完整restful api（与phalapi/fast-route不同，phalapi-restful支持 get post put delete）
 
